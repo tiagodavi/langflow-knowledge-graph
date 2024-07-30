@@ -29,7 +29,7 @@
 
 ## Vídeo do projeto
 
-https://youtu.be/06ugLGRyDF8?si=wtbGCOzyALspRqPW
+https://youtu.be/06ugLGRyDF8
 
 
 
