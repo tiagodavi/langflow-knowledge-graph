@@ -1,6 +1,8 @@
 # Knowledge Graphs for RAG com Neo4j e LangFlow
 
-- Este projeto utiliza Neo4j e LangFlow para criar e gerenciar um sistema de conhecimento baseado em grafos. Ele é dividido em duas etapas principais: **Ingestão de Dados** e **Execução do Fluxo**.
+- Este projeto utiliza Neo4j e LangFlow para criar e gerenciar um sistema de conhecimento baseado em grafos. 
+
+- Ele é dividido em duas etapas principais: **Ingestão de Dados** e **Execução do Fluxo**.
 
 - Este projeto ficou entre os 50 melhores soluções da competição de Langflow #IADevs. :star:
 
